@@ -1,1 +1,9 @@
+Simple upload of the stock DTB files for the R36S for those who are missing theirs.
 
+I found that the DTB files provided by the custom firmwares were making my R36S boot to a blank screen. 
+
+I followed the process of downloading, unzipping, and writing the img file to the SD card, but before I tossed it in my R36S, I replaced the writted .dtb files with the ones uploaded here and the process went as expected.
+
+To document in case this is a hardware revision, I received my R36S at the beginning of April, 2024.
+
+Hope this helps!
